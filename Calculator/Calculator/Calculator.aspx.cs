@@ -26,6 +26,4 @@ namespace Calculator
             return result;
         }
     }
-
-
 }
